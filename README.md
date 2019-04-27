@@ -1,5 +1,5 @@
-# My-Boilerplate-VBWMD
-My-Boilerplate-VBWMD
+# boilerplate-VBWMD
+boilerplate-VBWMD
 
 
 ## base
